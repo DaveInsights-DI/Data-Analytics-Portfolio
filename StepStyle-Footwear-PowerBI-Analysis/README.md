@@ -69,7 +69,7 @@ This project is a Power BI dashboard built on a fictional dataset for StepStyle,
 
 ## Author
 
-**Anyanwu David Matthew**
+**Anyanwu, Matthew David**
 
 Data Analyst | Excel | Power BI | Data Cleaning
 
