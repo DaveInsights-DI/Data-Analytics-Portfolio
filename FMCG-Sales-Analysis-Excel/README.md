@@ -91,4 +91,4 @@ The workbook has these sheets:
 
 Data Analyst | Excel | Data Cleaning | PivotTables
 
-LinkedIn: [linkedin.com/in/matthew-david-anyanwu-66995942a](linkedin.com/in/matthew-david-anyanwu-66995942a)
+LinkedIn: [linkedin.com/in/matthew-david-anyanwu-66995942a](https://linkedin.com/in/matthew-david-anyanwu-66995942a)
