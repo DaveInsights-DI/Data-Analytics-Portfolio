@@ -8,7 +8,7 @@ This project is a Power BI dashboard built on a fictional dataset for StepStyle,
 
 ## Dashboard Preview
 
-![StepStyle Dashboard](dashboard.png)
+![stepstyle-dashboard](stepstyle-dashboard.png)
 
 ## Tools and Skills Used
 
@@ -59,7 +59,7 @@ This project is a Power BI dashboard built on a fictional dataset for StepStyle,
 ## Files in This Folder
 
 - [StepStyle_Sales_Dashboard.pbix](StepStyle_Sales_Dashboard.pbix): the Power BI report file (open it with Power BI Desktop)
-- [dashboard.png](dashboard.png): dashboard screenshot
+- [stepstyle-dashboard.png](stepstyle-dashboard.png): dashboard screenshot
 
 ## How to Explore
 
