@@ -23,4 +23,4 @@ Built an interactive Power BI dashboard that shows what drives revenue, how cust
 ## Contact
 
 - Email: anyanwumatthewdavid@gmail.com
-- LinkedIn: [linkedin.com/in/matthew-david-anyanwu-66995942a](linkedin.com/in/matthew-david-anyanwu-66995942a)
+- LinkedIn: [linkedin.com/in/matthew-david-anyanwu-66995942a](https://linkedin.com/in/matthew-david-anyanwu-66995942a)
