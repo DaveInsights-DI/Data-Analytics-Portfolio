@@ -87,8 +87,8 @@ The workbook has these sheets:
 
 ## Author
 
-**Anyanwu David Matthew**
+**Anyanwu, Matthew David**
 
 Data Analyst | Excel | Data Cleaning | PivotTables
 
-LinkedIn: [Anyanwu David Matthew](https://www.linkedin.com/in/anyanwu-david-matthew-66995942a)
+LinkedIn: [linkedin.com/in/matthew-david-anyanwu-66995942a](linkedin.com/in/matthew-david-anyanwu-66995942a)
